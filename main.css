@@ -1,0 +1,97 @@
+
+h1 {
+    font-size: 44px;
+    line-height: 48px;
+    margin: 15px 0;
+}
+h2{
+    font-size: 25px;
+    line-height: 33px;
+    margin: 17px 0;
+}
+h3 {
+    font-size: 18px;
+    line-height: 35px
+    margin: 19px 0;
+}
+#top {
+    width: 100%;
+    height: 516px;
+    background: url(img/your_verse_hero.jpg);
+    background-size: 106% 230%;
+    background-position:  -49px  -700px;
+    background-repeat: no-repeat;
+}
+#top #title {
+    width: 770px;
+    text-align: center;
+    margin: 100px auto;
+    color: #eee;
+    font-style: normal;
+    font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+#top ul {
+    width: 890px;
+    margin: 0 auto;
+    background: linear-gradient(#9a9a9a,#464646);
+    position: relative;
+    top: 20px;
+    border-radius: 3px;
+    border: 1px solid #555;
+}
+#top ul li {
+    display: inline-block;
+    padding: 10px 33px;
+    color: #efefef;
+    font-size: 13px;
+    border-right: 1px solid #aaa;
+}
+#bottom div {
+    width: 24.74%;
+    height: 176px;
+    display: inline-block;
+    position: relative;
+    top: -28px;
+}
+#iphon {
+    background: url(img/promo_iphone5s.jpg);
+    background-size: 100% 175px;
+}
+#iphonc {
+    background: red;
+    background: url(img/promo_iphone5c.jpg);
+    background-size: 100% 175px;
+}
+#ip3rd {
+    background: red;
+    background: url(img/promo_30_years2.jpg);
+    background-size: 100% 175px;
+}
+#ip4th{
+    background: red;
+    background: url(img/promo_supplier_responsibility.jpg);
+    background-size: 100% 175px;
+}
+footer p {
+    line-height: 32px;
+    font-size: 12px;
+    display: inline;
+    margin-left: 80px;
+}
+footer ul {
+    display: inline-block;
+    margin:0 80px;
+}
+footer li {
+    display: inline-block;
+    font-size: 12px;
+    padding-right: 5px;
+    border-right: 1px solid #909090; 
+}
+footer li:last-child {
+    border-right: none; 
+}
+footer a {
+   text-decoration: none;
+}
